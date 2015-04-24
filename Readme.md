@@ -3,6 +3,9 @@
 Coding style for [my](https://github.com/sapegin) projects.
 
 
+* [JavaScript](JavaScript.md)
+
+
 ## Author
 
 * [Artem Sapegin](http://sapegin.me)

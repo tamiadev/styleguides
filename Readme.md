@@ -4,12 +4,8 @@ Coding style for [my](https://github.com/sapegin) projects.
 
 
 * [JavaScript](JavaScript.md)
+* [Stylus](Stylus.md)
 
-
-## Author
-
-* [Artem Sapegin](http://sapegin.me)
-* Based on ...
 
 ---
 
